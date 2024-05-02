@@ -1,0 +1,27 @@
+{
+    "create":{
+        "user": {
+            "name": "Henrique",
+            "email": "henrikegx@hotmail.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "pagar a fatura do meu cartão",
+            "tags": [
+                "ourocard",
+                "smiles",
+                "bancopan"
+            ]
+        }
+    },
+    "dupli":{
+        "user": {
+            "name": "Jean Gray",
+            "email": "Fenix@hotmail.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "fazer compras no mercado"
+        }
+    }
+}

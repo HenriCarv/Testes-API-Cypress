@@ -1,0 +1,31 @@
+{
+    "remove": {
+        "user": {
+            "name": "peter",
+            "email": "peter@hotmai.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "Estud4r Java2",
+                "tags": [
+                    "ark",
+                    "nano",
+                    "teias"
+                ]
+            }
+        
+    },
+    "notfound": {
+        "user": {
+            "name": "bruce2",
+            "email": "huk2@hotmai.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "Destruir2"
+            }
+        
+    }
+}

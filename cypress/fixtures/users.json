@@ -1,0 +1,15 @@
+{
+    "sessions": {
+        "name": "henrique",
+        "email": "henrike@hotmail.com",
+        "password": "123456"
+    },
+    "inv_pass": {
+        "email": "henrike@hotmail.com",
+        "password": "1234"
+    },
+    "emial_404": {
+        "email": "henrike@hotmail.comm",
+        "password": "123456"
+    }
+}

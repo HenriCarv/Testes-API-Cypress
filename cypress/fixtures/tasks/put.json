@@ -1,0 +1,31 @@
+{
+    "update": {
+        "user": {
+            "name": "jose",
+            "email": "jose@hotmai.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "Estud4r Java3",
+                "tags": [
+                    "1",
+                    "oi",
+                    "6"
+                ]
+            }
+        
+    },
+    "notfound": {
+        "user": {
+            "name": "banban",
+            "email": "banban@hotmai.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "tomar porrada"
+            }
+        
+    }
+}

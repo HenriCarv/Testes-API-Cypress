@@ -1,0 +1,16 @@
+{
+  "name": "mark85-cypress",
+  "version": "1.0.0",
+  "description": "Projeto de testes de API",
+  "main": "index.js",
+  "scripts": {
+    "test": "Npx cypress run"
+  },
+  "author": "Henrique de Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.8.1",
+    "cypress-plugin-api": "^2.11.1",
+    "mongodb": "^6.5.0"
+  }
+}
