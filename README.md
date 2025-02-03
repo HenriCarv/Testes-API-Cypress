@@ -6,6 +6,7 @@ Este projeto contém testes automatizados para APIs utilizando Cypress.
 
 - Node.js (versão 12 ou superior)
 - npm (geralmente instalado junto com o Node.js)
+- Cypress (versão 8.0.0 ou superior)
 
 ## Instalação
 
